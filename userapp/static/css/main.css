@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    text-align: center;
+}
+.main-container{
+    font-family: Ubuntu;
+    font-size: 18px;
+    background-color: ghostwhite;
+    height: 70px;
+    width: auto;
+    box-shadow: 0 0 0.35rem #3b3b3b;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    margin: 18px;
+    margin-right: 600px;
+}
+ul{
+    margin: 5px;
+    display: flex;
+    list-style: none;
+}
+li{
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+}
